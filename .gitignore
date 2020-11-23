@@ -1,3 +1,5 @@
 *.obj
 *.tlog
 /vc16.*
+x64/Debug/SerialComm/*.exe
+Debug/SerialComm.exe
